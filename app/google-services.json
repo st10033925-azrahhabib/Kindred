@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752964881653",
+    "project_id": "kindred-e234c",
+    "storage_bucket": "kindred-e234c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752964881653:android:bb4813bb7124fd046749bc",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.kindred"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPywRshojHRn3m1u52WHVhYhDb3bh9qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
