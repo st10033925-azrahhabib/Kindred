@@ -67,7 +67,7 @@ class Registration : AppCompatActivity() {
                     Toast.makeText(this, "Signup Successful!", Toast.LENGTH_SHORT).show()
 
                     // Navigate back to MainActivity (Login Activity)
-                    val intent = Intent(this, MainActivity::class.java)
+                    val intent = Intent(this, LandingPage::class.java)
                     startActivity(intent)
                     finish() // Close the SignupActivity so the user can't go back to it with the back button
 
