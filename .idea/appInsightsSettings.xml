@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="vcmsa.projects.kindred" />
+                  <option name="mobileSdkAppId" value="1:752964881653:android:bb4813bb7124fd046749bc" />
+                  <option name="projectId" value="kindred-e234c" />
+                  <option name="projectNumber" value="752964881653" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
