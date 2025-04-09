@@ -25,16 +25,16 @@
         android:id="@+id/description_textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
         android:text="Welcome to Kindred, the best social media app alive."
         android:textColor="#FFFDD0"
         android:textSize="20sp"
-        android:layout_marginTop="16dp"
         app:layout_constraintBottom_toTopOf="@+id/Name_textView"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/logo_imageView"
         app:layout_constraintVertical_bias="0.74" />
-
 
     <TextView
         android:id="@+id/Name_textView"
